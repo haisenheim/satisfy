@@ -1,0 +1,1 @@
+<h2 class="page-header">Tableau de bord d'administration du site</h2>
